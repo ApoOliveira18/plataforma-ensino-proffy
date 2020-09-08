@@ -19,9 +19,9 @@
 <p>Projeto de estudos siguindo a trilha NWL2 da Rocketseat. Bem mais simples comparado as trilhas GoStack, mas bom o suficiente para pegar mais alguns detalhes de Node JS, React JS, e React Native.  </p>
 
 <p align="center">   
-  <img alt="Login-Page" title="Login-Page" src="web/src/assets/int1.png" width="600px" />
-  <img alt="Login-Page" title="Login-Page" src="web/src/assets/int2.png" width="600px" />  
-  <img alt="Login-Page" title="Login-Page" src="web/src/assets/int3.png" width="600px" />  
+  <img alt="Login-Page" title="Login-Page" src="web/src/assets/int1.png" width="300px" />
+  <img alt="Login-Page" title="Login-Page" src="web/src/assets/int2.png" width="300px" />  
+  <img alt="Login-Page" title="Login-Page" src="web/src/assets/int3.png" width="300px" />  
 </p>
 <p>
 <img alt="Login-Page" title="Login-Page" src="web/src/assets/intM1.png" width="300px" />
