@@ -24,11 +24,11 @@
   <img alt="Login-Page" title="Login-Page" src="web/src/assets/int3.png" width="800px" />  
 </p>
 <p>
-<img alt="Login-Page" title="Login-Page" src="web/src/assets/intM1.png" width="200px" />
-<img alt="Login-Page" title="Login-Page" src="web/src/assets/intMob2.png" width="200px" />
-<img alt="Login-Page" title="Login-Page" src="web/src/assets/intMob3.png" width="200px" />
-<img alt="Login-Page" title="Login-Page" src="web/src/assets/intMob4.png" width="200px" />
-<img alt="Login-Page" title="Login-Page" src="web/src/assets/intMob5.png" width="200px" />
+<img alt="Login-Page" title="Login-Page" src="web/src/assets/intM1.png" width="250px" />
+<img alt="Login-Page" title="Login-Page" src="web/src/assets/intMob2.png" width="250px" />
+<img alt="Login-Page" title="Login-Page" src="web/src/assets/intMob3.png" width="250px" />
+<img alt="Login-Page" title="Login-Page" src="web/src/assets/intMob4.png" width="250px" />
+<img alt="Login-Page" title="Login-Page" src="web/src/assets/intMob5.png" width="250px" />
 </p>
 
 
