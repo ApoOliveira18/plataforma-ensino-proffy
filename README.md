@@ -20,10 +20,12 @@
 
 <p align="center">   
   <img alt="Login-Page" title="Login-Page" src="web/src/assets/int1.png" width="600px" />
-   <img alt="Login-Page" title="Login-Page" src="web/src/assets/int2.png" width="600px" />
-     <img alt="Login-Page" title="Login-Page" src="web/src/assets/int2.png" width="600px" />
-   
- </p>
+  <img alt="Login-Page" title="Login-Page" src="web/src/assets/int2.png" width="600px" />  
+</p>
+<p>
+<img alt="Login-Page" title="Login-Page" src="web/src/assets/intM1.png" width="300px" />
+<img alt="Login-Page" title="Login-Page" src="web/src/assets/intMob2.png" width="300px" />
+</p>
 
 
 ## :rocket: Tecnologias
