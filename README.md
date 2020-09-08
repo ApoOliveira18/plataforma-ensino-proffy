@@ -38,13 +38,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [ReactNative](https://reactnative.dev/) 
 - [Typescript](https://www.typescriptlang.org/docs/home.html)
-- [TypeORM](https://typeorm.io/#/)
-- [Mutter](https://www.npmjs.com/package/multer)
-- [Context API](https://reactjs.org/docs/context.html)
-- [Async Storage](https://github.com/react-native-community/async-storage)
-- [Mongodb](https://docs.mongodb.com/)
-- [Redis](https://redis.io/documentation)
-- [Postgres](https://www.postgresql.org/docs/)
+
 
 ## :information_source: Como Usar
 
