@@ -36,7 +36,10 @@
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- [ReactNative](https://reactnative.dev/) 
+- [Node.js](https://nodejs.org/en/) 
+- [React](https://reactjs.org)
+- [React Native](https://facebook.github.io/react-native/)
+- [Expo](https://expo.io/)
 - [Typescript](https://www.typescriptlang.org/docs/home.html)
 
 
@@ -49,9 +52,9 @@ From your command line:
 ### Install API
 ```bash
 # Clone this repository
-$ git clone https://github.com/ApoOliveira18/app-GoBarber.git
+$ git clone https://github.com/ApoOliveira18/plataforma-ensino-proffy.git
 # Go into the repository
-$ cd app-GoBarber/
+$ cd plataforma-ensino-proffy/
 
 # Install dependencies for directories
 $yarn
