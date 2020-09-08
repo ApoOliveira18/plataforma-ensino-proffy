@@ -45,7 +45,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## :information_source: Como Usar
 
-Para clonar a aplicação, você necessitará do [Git](https://git-scm.com), [ReactNative][reactnative] + [Yarn][yarn] instalados em seu computador.
+Para clonar a aplicação, você necessitará do [Git](https://git-scm.com), [NodeJS][nodejs], [React][react], [ReactNative][reactnative] + [Yarn][yarn] instalados em seu computador.
 
 From your command line:
 
@@ -80,6 +80,7 @@ Feito com ♥ && 🎧 && 😊 || 😥
  por Adilson Oliveira :wave: [Get in touch!] www.linkedin.com/in/adilson-p-oliveira
 
 [nodejs]: https://nodejs.org/
+[react]: https://reactjs.org/
 [yarn]: https://yarnpkg.com/
 [vc]: https://code.visualstudio.com/
 [vceditconfig]: https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
